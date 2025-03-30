@@ -1,0 +1,29 @@
+# Random Apple noise:
+0.0.0.0 api.smoot.apple.com
+0.0.0.0 c.apple.news
+0.0.0.0 cloudsink.net
+0.0.0.0 gs-loc.ls-apple.com.akadns.net
+0.0.0.0 init.itunes.apple.com
+0.0.0.0 stocks-data-service.apple.com
+0.0.0.0 stocks-data-service.lb-apple.com.akadns.net
+0.0.0.0 stocks-sparkline.apple.com
+0.0.0.0 time.euro.apple.com
+0.0.0.0 weather-data.apple.com
+
+# Facebook noise:
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+
+# Other:
+0.0.0.0 a.a47b.com
+0.0.0.0 a.magsrv.com
+0.0.0.0 a.pemsrv.com
+0.0.0.0 ads.viralize.tv
+0.0.0.0 de2-bid.adsrvr.org
+0.0.0.0 enduser.adsrvr.org
+0.0.0.0 ie1-bid.adsrvr.org
+0.0.0.0 match.adsby.bidtheatre.com
+0.0.0.0 ox-rtb-europe-west2.openx.net
+0.0.0.0 prebid-log.getpublica.com
+0.0.0.0 t3.teads.tv
+0.0.0.0 twitter.com
